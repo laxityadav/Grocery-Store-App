@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grocery Store</string>
+    <string name="drawer_open" />
+    <string name="drawer_closed" />
+</resources>
